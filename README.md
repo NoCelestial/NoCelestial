@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **New C# And New .Net 6**
 
